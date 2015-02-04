@@ -1,2 +1,5 @@
 When would you want to add a remote repository rather than keeping all your work local?
 For backup reason, to share code with remote developer, to be able to retrieve code from different computer.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+To allow me to check changes before pulling them
