@@ -1,1 +1,2 @@
 When would you want to add a remote repository rather than keeping all your work local?
+For backup reason, to share code with remote developer, to be able to retrieve code from different computer.
