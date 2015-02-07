@@ -3,3 +3,8 @@ For backup reason, to share code with remote developer, to be able to retrieve c
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 To allow me to check changes before pulling them
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+- Fork is clone on GitHub repository only
+- Clone can happen between any repository
+- Branch happens on a single repository
